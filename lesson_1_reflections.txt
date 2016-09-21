@@ -1,0 +1,11 @@
+1) It helped me to see where the error was at. Then it was easy to pinpoint.
+2) Having version control would really help control the changes and allow you to see what changes
+to the code are resulting in the various outputs that you are seeing
+3) I theink the pro is that you get to pick when to commit. The con is that you might 
+forget to do it.
+4) Google docs is usually dealing with files that don't interact whereas code frequently interacts
+across files.
+5) You use git log to see all the different versions of the files in the repository, then you
+use git diff to compare the different versions of those files.
+6) You would always know that you could revert to a version that worked.
+7) I want to use git to check out the various version of this text file!
