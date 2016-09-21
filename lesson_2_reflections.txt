@@ -1,1 +1,2 @@
 1) When you initialize a repository a .git file is saved into that directory and git starts tracking your repository.
+2) The staging area is between the repository and the working directory.
