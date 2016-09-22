@@ -2,3 +2,6 @@
 2) The staging area is between the repository and the working directory.
 3) You can use git --staged to check out the differences between files in the staging area versus those that have already been committed. So, you can use that to make sure you're only committing the right changes.
 4) branches help you when you're trying out a different version or something and want to run two different versions in paralell.
+5) the branches help me understand by showing that each commit has a parent and taht some aren't reachable.
+6) merging merges two branches together.
+7) automatic merging is awesome because it takes a lot of tedius work out of the process.
