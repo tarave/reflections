@@ -1,1 +1,2 @@
 1) Anytime you wanted to share with someone else. Or, if you wanted to back up.
+2) Maybe if someone else made a change to your file and you weren't sure you wanted it on your local machine.
